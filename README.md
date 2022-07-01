@@ -7,4 +7,4 @@ Soru-1 : Normal, pür php ile yazdığımız kodu daha kısa sürede yazabiliriz
 Soru-2 : 
 ##	SYMFONY UYGULAMASI OLUŞTURMA (80 puan)
 
-[Proje ziplenmiş halde bu linkte]([https://www.google.com](https://github.com/EnUygunPatikaBootCamp/week-3-Blackcloud00/blob/main/enuygunWeek3Work.zip) "Olgun Karabulut Symfony Ödevi")
+[Proje ziplenmiş halde bu linkte](https://github.com/EnUygunPatikaBootCamp/week-3-Blackcloud00/blob/main/enuygunWeek3Work.zip)
