@@ -7,3 +7,4 @@ Soru-1 : Normal, pür php ile yazdığımız kodu daha kısa sürede yazabiliriz
 Soru-2 : 
 ##	SYMFONY UYGULAMASI OLUŞTURMA (80 puan)
 
+[Başlığa sahip bir yazı içi linkiyim](https://www.google.com "Google Anasayfa")
