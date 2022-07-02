@@ -12,11 +12,13 @@ Soru-1 : Symfony kullanmanın avantajları nedir? Kendi cümlelerinizle açıkla
 Soru-2 : 
 
 Soru-3 : Yeni bir Symfony projesi oluşturmak için kullanılan composer komutu nedir? Alternatif bir komutla Symfony projesi oluşturabilir miyiz?
-
-         composer create-project symfony/skeleton:"6.1.*" my_project_directory
-         cd my_project_directory
-         composer require webapp         
-         Alternatif bir komutla symfony projesi oluşturabiliriz => symfony new my_project_directory --version="6.0.*" --webapp
+```
+composer create-project symfony/skeleton:"6.1.*" my_project_directory
+cd my_project_directory
+composer require webapp         
+```
+Alternatif bir komutla symfony projesi oluşturabiliriz;
+```symfony new my_project_directory --version="6.0.*" --webapp```
          
 ##	SYMFONY UYGULAMASI OLUŞTURMA (80 puan)
 
