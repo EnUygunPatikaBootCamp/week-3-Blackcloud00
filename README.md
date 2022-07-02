@@ -9,7 +9,8 @@
 - Front-end alanını (CSS, JS) dosyalarını kolaylıkla kontrol edebilir ve güncelleyebiliriz.
 - Bir proje içerisinde birden çok yazılımcının entegre bir şekilde çalışmasını sağlar.
 
-### Soru-2 : 
+### Soru-2 : Symfony ile environment (ortam) ayarlaması nasıl yapılır?
+.env dosyasından APP_ENV'den ortamı seçip ona göre run edebiliyoruz ve bundle larda hangi bundle hangi ortamda çalışacaksa kontrolünü sağlayabiliyoruz.
 
 ### Soru-3 : Yeni bir Symfony projesi oluşturmak için kullanılan composer komutu nedir? Alternatif bir komutla Symfony projesi oluşturabilir miyiz?
 ```
