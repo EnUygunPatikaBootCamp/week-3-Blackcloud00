@@ -4,7 +4,10 @@
 
 Soru-1 : Symfony kullanmanın avantajları nedir? Kendi cümlelerinizle açıklayınız.
 
-         Normal, pür php ile yazdığımız kodu daha kısa sürede yazabiliriz. Hazır kütüphaneleri tek satır kod ile projeye dahil edebiliriz. Güvenlik açısından güncel              olarak kendini tazeler örnek olarak xss, SQL injection gibi vs. saldırılara karşı koruma sağlar. Front-end alanını (CSS, JS) dosyalarını kolaylıkla kontrol              edebilir ve güncelleyebiliriz. Bir proje içerisinde birden çok yazılımcının entegre bir şekilde çalışmasını sağlar.
+         Normal, pür php ile yazdığımız kodu daha kısa sürede yazabiliriz. Hazır kütüphaneleri tek satır kod ile projeye dahil edebiliriz. 
+         Güvenlik açısından güncel olarak kendini tazeler örnek olarak xss, SQL injection gibi vs. saldırılara karşı koruma sağlar. 
+         Front-end alanını (CSS, JS) dosyalarını kolaylıkla kontrol edebilir ve güncelleyebiliriz.
+         Bir proje içerisinde birden çok yazılımcının entegre bir şekilde çalışmasını sağlar.
 
 Soru-2 : 
 
