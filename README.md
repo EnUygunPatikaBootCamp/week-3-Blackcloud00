@@ -42,4 +42,5 @@ Laravel'in desteklediği veri tabanları;
          
 ##	SYMFONY UYGULAMASI OLUŞTURMA (80 puan)
 [Proje github branchte](https://github.com/EnUygunPatikaBootCamp/week-3-Blackcloud00/tree/git%40github.com-EnUygunPatikaBootCamp/week-3-Blackcloud00.git)
+
 [Proje ziplenmiş halde bu linkte](https://github.com/EnUygunPatikaBootCamp/week-3-Blackcloud00/blob/main/enuygunWeek3Work.zip)
